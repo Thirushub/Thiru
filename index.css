@@ -16,4 +16,5 @@ label, input, button {
 }
 .alarm{
   color: red;
+  background-color: blue;
 }
